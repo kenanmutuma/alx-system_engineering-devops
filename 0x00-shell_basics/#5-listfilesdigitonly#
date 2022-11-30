@@ -1,0 +1,20 @@
+#!/bin/bash
+ls -aln
+
+
+C-x  C-c
+
+exit
+clear
+
+
+
+
+
+
+
+
+
+
+
+
