@@ -1,0 +1,2 @@
+#!/bin/bash
+chown hello new_owner betty
