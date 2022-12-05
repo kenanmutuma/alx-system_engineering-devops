@@ -1,1 +1,1 @@
-print words that appear once 
+count directories
