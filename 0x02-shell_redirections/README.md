@@ -1,1 +1,1 @@
-hide bin
+list starting with a letter
