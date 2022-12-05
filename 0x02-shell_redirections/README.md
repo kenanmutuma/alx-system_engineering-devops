@@ -1,1 +1,1 @@
-display root
+hide bin
