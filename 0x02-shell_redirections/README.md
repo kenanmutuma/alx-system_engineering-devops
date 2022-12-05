@@ -1,1 +1,1 @@
-delete js
+counting directories
