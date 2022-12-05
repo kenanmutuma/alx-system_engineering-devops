@@ -1,1 +1,1 @@
- newest directories
+print words that appear once 
