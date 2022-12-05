@@ -1,1 +1,1 @@
-a script that writes into a file
+dictate the last line
