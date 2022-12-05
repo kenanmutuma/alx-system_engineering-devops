@@ -1,1 +1,1 @@
-new file containing best school
+a script that writes into a file
